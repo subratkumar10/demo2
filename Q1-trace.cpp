@@ -64,7 +64,7 @@ int main()
    cout<<"activation_record_id\t"<<&activation_record_id<<"\t"<<activation_record_id<<endl;
    cout<<"Final result:the maximum element is  "<<f<<endl;
 
-
+cout<<"hello";
 
  return 0;
 }
