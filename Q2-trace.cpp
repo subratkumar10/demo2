@@ -8,6 +8,7 @@ void print(int a[],int end1)
         cout<<a[i]<<" ";
     }
 }
+//hiiiiiiiiiiiiiiiiii
 void permutation(int a[],int start,int end1){
     static int activation_record=1;
     cout<<"************Calling permutation function-->permutation(arr[";
